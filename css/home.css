@@ -1,0 +1,142 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-color: #FBFBFB;
+}
+
+.top {
+    height: 100px;
+    width: 100%;
+    background-color: #2E2E2E;
+}
+
+.main {
+    width: 1140px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.main-block {
+    width: 400px;
+    float: left;
+    border: 1px solid #EFEFEF;
+    margin-right: 20px;
+    padding-bottom: 10px;
+    height:420px;
+}
+
+.main-b-top {
+    height: 45px;
+    width: 360px;
+    margin: 0 auto;
+    border-bottom: 1px solid #DDDDDD;
+    margin-bottom: 10px;
+}
+
+.main-b-tt {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    width: 360px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+    .main-b-tt a {
+        font-size: 22px;
+        color: #00A786;
+        font-weight: bold;
+        text-decoration: none;
+    }
+
+
+        .main-b-tt a:hover {
+            text-decoration: none;
+        }
+
+.main-b-top-w {
+    height: 45px;
+    line-height: 45px;
+    font-size: 14px;
+    float: left;
+    font-family: 微软雅黑;
+    font-weight: bold;
+    border-bottom: 2px solid #00A786;
+}
+
+.main-b-top-no {
+    height: 40px;
+    line-height: 40px;
+    font-size: 14px;
+    float: left;
+    font-family: 微软雅黑;
+    margin-left: 20px;
+}
+
+.main-c {
+    width: 360px;
+    margin: 0 auto;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+    .main-c a {
+        font-size: 13px;
+        color: black;
+        text-decoration: none;
+    }
+
+        .main-c a:hover {
+            color: #00A786;
+            text-decoration: underline;
+        }
+
+.main-c-big {
+    height: 20px;
+    width: 360px;
+    margin: 0 auto;
+    margin-bottom:11px;
+}
+
+.main-c-l1 {
+    float: left;
+    background-color: #00A786;
+    font-size: 12px;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-right:12px;
+}
+
+.main-c-l2 {
+    width: 269px;
+    float: left;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: 12px;
+}
+
+    .main-c-l2 a {
+        color: black;
+        text-decoration: none;
+    }
+
+        .main-c-l2 a:hover {
+            color: #00A786;
+            text-decoration: underline;
+        }
+
+.main-c-l3 {
+    width: 40px;
+    float: left;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    font-size: 12px;
+    color:#999999;
+}
+
+.test {
+    border: 1px solid red;
+}
